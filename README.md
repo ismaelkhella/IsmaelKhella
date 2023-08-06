@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ismael Khella Software Engineering and Mobile Applications Developer </h1>
-<h3 align="center">A Flutter Developer!</h3>
+<h3 align="center">Flutter Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterboy20&label=Profile%20views&color=0e75b6&style=flat" alt="flutterboy20" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2222576/screenshots/4429400/media/a69ca19e9cab053006f82ef758757d22.gif">
